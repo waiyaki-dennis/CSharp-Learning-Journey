@@ -1,0 +1,74 @@
+# 🚀 C# Learning Journey
+
+Welcome to my C# Learning Journey!
+
+This repository documents my progression from learning the fundamentals of C# to building production-ready applications with ASP.NET Core.
+
+---
+
+## 🎯 Purpose
+
+The goal of this repository is to:
+
+- Learn C# from the ground up.
+- Build practical projects after every concept.
+- Practice professional Git and GitHub workflows.
+- Create a portfolio that demonstrates consistent growth.
+- Prepare for backend software development and eventually build enterprise-scale applications such as **ArdhaHub**.
+
+---
+
+## 🛠 Technologies
+
+- C#
+- .NET
+- SQL Server
+- Git
+- GitHub
+- Visual Studio Code
+- ASP.NET Core (Coming Soon)
+- Entity Framework Core (Coming Soon)
+
+---
+
+## 📚 Repository Structure
+
+```
+01-Basics
+02-ControlFlow
+03-Collections
+04-Methods
+05-Object-Oriented Programming
+06-Exception Handling
+07-File Handling
+08-SQL
+09-ASP.NET Core
+10-Projects
+```
+
+---
+
+## 📈 Learning Philosophy
+
+I believe the best way to learn software development is by building real projects.
+
+For every concept I learn, I create a practical project that reinforces the lesson while following professional software development practices.
+
+---
+
+## 🌟 Long-Term Vision
+
+This repository is the beginning of my journey toward becoming a professional software engineer.
+
+My long-term objective is to design and build **ArdhaHub**, a modern real estate CRM and property verification platform focused on increasing transparency and reducing fraud within Kenya's real estate industry.
+
+---
+
+## 🤝 Connect
+
+GitHub:
+https://github.com/waiyaki-dennis
+
+---
+
+*"Every expert was once a beginner who refused to quit."*
